@@ -14,8 +14,12 @@ Use [this link to generate MD5](https://emn178.github.io/online-tools/md5.html)
   question : "question",
   options : [],
   answer : "hash of answer",
+  tags : [],
 }
 ```
-Please use MD5 for generating answer with hash.
+Please use MD5 for generating answer with hash. 
+Please push in respective directory or make new directory.
+
+## Contact Information
 For any further question please contact [sKaiCzar on X](twitter.com/sKaiCzar)
 or mail at: skaiczar@protonmail.com
