@@ -3,11 +3,16 @@ repo of questions of OAPrep
 ## Format of pr request for questions:
 ### Filename format rules
 filename: (String(MD5 checksum(username of contributor)) + String(question no from their perspective))).json
+
 Example sKaiCzar's first question : 769bad48a0abba78ae3110d6ccf9e7120.json
+
 MD5(sKaiCzar) = 769bad48a0abba78ae3110d6ccf9e712
-Q no = 0
+
+Question sequence by this user = 0
+
 Use [this link to generate MD5](https://emn178.github.io/online-tools/md5.html)
-[Shoutout to emn178](https://github.com/emn178)
+
+[Shoutout to emn178](https://github.com/emn178) for making the above static solution for hashing algorithms.
 ### Format for internal question
 ```
 {
