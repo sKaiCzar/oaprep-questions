@@ -18,10 +18,11 @@ Use [this link to generate MD5](https://emn178.github.io/online-tools/md5.html)
 {
   question : "question",
   options : [],
-  answer : "hash of answer",
+  answer : [],
   tags : [],
 }
 ```
+
 Please use MD5 for generating answer with hash. 
 Please push in respective directory or make new directory.
 
